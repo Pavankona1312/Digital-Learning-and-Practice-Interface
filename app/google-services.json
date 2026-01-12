@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "276555234552",
+    "project_id": "vault-52abe",
+    "storage_bucket": "vault-52abe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276555234552:android:8dc13fa9a8ba51c2a6cf0d",
+        "android_client_info": {
+          "package_name": "com.example.vault"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFBB00HLXt93KzZ574CdYuNCDdVZUab-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
